@@ -44,7 +44,7 @@ namespace my_uniq
                 if (filePath != null) reader.Dispose();
             }
 
-            return 0; // успішне виконання 
+            return 0; //успішне виконання 
         }
 
         private static void ProcessUniq(TextReader reader, TextWriter outStream, bool count, bool ignoreCase)
