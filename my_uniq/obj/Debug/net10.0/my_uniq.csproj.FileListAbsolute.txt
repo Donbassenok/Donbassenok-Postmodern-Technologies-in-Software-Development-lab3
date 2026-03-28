@@ -1,0 +1,14 @@
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq\bin\Debug\net10.0\my_uniq.exe
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq\bin\Debug\net10.0\my_uniq.deps.json
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq\bin\Debug\net10.0\my_uniq.runtimeconfig.json
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq\bin\Debug\net10.0\my_uniq.dll
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq\bin\Debug\net10.0\my_uniq.pdb
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq\obj\Debug\net10.0\my_uniq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq\obj\Debug\net10.0\my_uniq.AssemblyInfoInputs.cache
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq\obj\Debug\net10.0\my_uniq.AssemblyInfo.cs
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq\obj\Debug\net10.0\my_uniq.csproj.CoreCompileInputs.cache
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq\obj\Debug\net10.0\my_uniq.dll
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq\obj\Debug\net10.0\refint\my_uniq.dll
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq\obj\Debug\net10.0\my_uniq.pdb
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq\obj\Debug\net10.0\my_uniq.genruntimeconfig.cache
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq\obj\Debug\net10.0\ref\my_uniq.dll

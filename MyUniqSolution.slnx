@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="my_uniq.Tests/my_uniq.Tests.csproj" />
+  <Project Path="my_uniq/my_uniq.csproj" />
+</Solution>
