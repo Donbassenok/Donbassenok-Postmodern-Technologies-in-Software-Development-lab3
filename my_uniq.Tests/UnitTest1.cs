@@ -33,5 +33,21 @@ namespace my_uniq.Tests
             Assert.That(output.ToString(), Is.Empty); 
             Assert.That(error.ToString(), Does.Contain("unknown").IgnoreCase);
         }
+
+        [Test]
+        public void Test_CountAndIgnoreCase_Options()
+        {
+            var input = new StringReader("hello\nHELLO\nworld\nWORLD\nworld\n");
+            var output = new StringWriter();
+            var error = new StringWriter();
+    
+            int exitCode = App.Run(new string[] { "-c", "-i" }, input, output, error);
+    
+            string expectedOutput = "   2 hello\n   3 world\n";
+    
+            Assert.That(exitCode, Is.EqualTo(0));
+            Assert.That(output.ToString().Replace("\r\n", "\n"), Is.EqualTo(expectedOutput));
+            Assert.That(error.ToString(), Is.Empty);
+}
     }
 }

@@ -162,3 +162,4 @@ C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-la
 C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq.Tests\obj\Debug\net10.0\my_uniq.Tests.pdb
 C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq.Tests\obj\Debug\net10.0\my_uniq.Tests.genruntimeconfig.cache
 C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq.Tests\obj\Debug\net10.0\ref\my_uniq.Tests.dll
+C:\Users\Donbassenok\Projects\Postmodern-Technologies-in-Software-Development-lab3\my_uniq.Tests\obj\Debug\net10.0\my_uniq.Tests.sourcelink.json
